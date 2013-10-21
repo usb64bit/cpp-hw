@@ -59,7 +59,7 @@ float calculate(Stacks<float>* operands, Stacks<char>* operators)
  * evalutates string and returns a result
  *
  * @param expression string
- * @return type int
+ * @return type float
  */
 float evaluate(string expression)
 {
